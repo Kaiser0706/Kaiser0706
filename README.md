@@ -1,10 +1,6 @@
 ## Hi there 👋
-
-<!--
-**Kaiser0706/Kaiser0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 💬 Ask me about ...👋 Name: Ashwin Gurung
+⚡ About Me
+👋 Name: Ashwin Gurung
 🎂 Age: 19
 🎓 Studying at: Global College of Management
 📍 Born in: Patan, Nepal
@@ -12,7 +8,13 @@ Here are some ideas to get you started:
 🥋 Hobbies: Judo | Boxing | Gym | Football | Video Games
 🏍️ Passionate about: Bikes & Motorcycles
 🎮 Gaming enthusiast who enjoys exploring different video games
-💪 Fitness enthusiast with a strong interest in combat sports- 📫 How to reach me: ...
-- 😄 Pronouns:He/him
-- ⚡ Fun fact: Aayush was born as a male but later in his early teens he turned out to be gay.
--->
+💪 Fitness enthusiast with a strong interest in combat sports
+🥋 Hobbies & Interests
+<p align="center">
+🏋️ Gym   
+🥋 Judo   
+🥊 Boxing   
+⚽ Football   
+🎮 Video Games   
+🏍️ Bikes
+</p>
